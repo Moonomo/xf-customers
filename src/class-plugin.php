@@ -124,8 +124,8 @@ class Plugin {
 			'has_archive'        => false,
 			'hierarchical'       => false,
 			'supports'           => array(
-				//'title',
-				//'editor',
+				'title',
+				'editor',
 			),
 		) );
 
