@@ -1,0 +1,278 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Customers Lead Gen by Omaar Osmaan\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-11 20:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Description of the plugin
+msgid "A Simple Lead Gen Form Plugin."
+msgstr ""
+
+#: src/class-plugin.php:106
+msgid "Add New"
+msgstr ""
+
+#: src/class-plugin.php:107
+msgid "Add New Customer"
+msgstr ""
+
+#: src/class-plugin.php:145
+msgid "Add New Customer Category"
+msgstr ""
+
+#: src/class-plugin.php:173
+msgid "Add New Customer Tag"
+msgstr ""
+
+#: src/class-plugin.php:105
+msgctxt "add new on admin bar"
+msgid "Customers"
+msgstr ""
+
+#: src/class-plugin.php:148
+msgid "Add or remove customer categories"
+msgstr ""
+
+#: src/class-plugin.php:176
+msgid "Add or remove customer tags"
+msgstr ""
+
+#: src/class-plugin.php:104
+msgctxt "admin menu"
+msgid "Customers"
+msgstr ""
+
+#: src/class-plugin.php:142
+msgid "All Customer Categories"
+msgstr ""
+
+#: src/class-plugin.php:170
+msgid "All Customer Tags"
+msgstr ""
+
+#: src/class-plugin.php:111
+msgid "All Customers"
+msgstr ""
+
+#: src/class-notice.php:81
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: src/class-plugin.php:149
+msgid "Choose from the most popular customer categories"
+msgstr ""
+
+#: src/class-plugin.php:177
+msgid "Choose from the most popular customer tags"
+msgstr ""
+
+#: src/class-service.php:72 src/class-service.php:127
+msgid "Could not create customer post-type."
+msgstr ""
+
+#: src/class-plugin.php:137 src/class-plugin.php:139
+msgid "Customer Categories"
+msgstr ""
+
+#: src/class-plugin.php:138
+msgid "Customer Category"
+msgstr ""
+
+#: src/class-shortcodes.php:46
+msgid "Customer Lead Gen Form"
+msgstr ""
+
+#: src/class-plugin.php:166
+msgid "Customer Tag"
+msgstr ""
+
+#: src/class-plugin.php:165 src/class-plugin.php:167
+msgid "Customer Tags"
+msgstr ""
+
+#. Name of the plugin
+msgid "Customers Lead Gen by Omaar Osmaan"
+msgstr ""
+
+#: src/class-plugin.php:219
+msgid "Date"
+msgstr ""
+
+#: src/class-form-fields.php:97 src/class-plugin.php:218
+#: src/class-shortcodes.php:134
+msgid "Desired Budget"
+msgstr ""
+
+#: src/class-form-fields.php:99
+msgid "Desired budget is required."
+msgstr ""
+
+#: src/class-plugin.php:109
+msgid "Edit Customer"
+msgstr ""
+
+#: src/class-plugin.php:143
+msgid "Edit Customer Category"
+msgstr ""
+
+#: src/class-plugin.php:171
+msgid "Edit Customer Tag"
+msgstr ""
+
+#: src/class-plugin.php:217 src/class-shortcodes.php:132
+msgid "Email Address"
+msgstr ""
+
+#: src/class-form-fields.php:91
+msgid "Email address is required."
+msgstr ""
+
+#: src/class-form-fields.php:89
+msgid "Email Address."
+msgstr ""
+
+#: src/class-plugin.php:199
+msgid "Enter the customer name"
+msgstr ""
+
+#: src/class-form-fields.php:421
+msgid "ERROR:"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://xfrontend.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://xfrontend.com/wordpress-plugins/"
+msgstr ""
+
+#: src/class-form-fields.php:106 src/class-shortcodes.php:137
+msgid "Message"
+msgstr ""
+
+#: src/class-form-fields.php:108
+msgid "Message is required."
+msgstr ""
+
+#: src/class-form-fields.php:73 src/class-plugin.php:215
+#: src/class-shortcodes.php:128
+msgid "Name"
+msgstr ""
+
+#: src/class-form-fields.php:75
+msgid "Name is required."
+msgstr ""
+
+#: src/class-plugin.php:108
+msgid "New Customer"
+msgstr ""
+
+#: src/class-plugin.php:146
+msgid "New Customer Category"
+msgstr ""
+
+#: src/class-plugin.php:174
+msgid "New Customer Tag"
+msgstr ""
+
+#: src/class-plugin.php:115
+msgid "No Customers found in Trash."
+msgstr ""
+
+#: src/class-plugin.php:114
+msgid "No Customers found."
+msgstr ""
+
+#: src/class-plugin.php:113
+msgid "Parent Customers:"
+msgstr ""
+
+#: src/class-form-fields.php:81 src/class-plugin.php:216
+#: src/class-shortcodes.php:130
+msgid "Phone Number"
+msgstr ""
+
+#: src/class-form-fields.php:83
+msgid "Phone number is required."
+msgstr ""
+
+#: src/class-plugin.php:141
+msgid "Popular Customer Categories"
+msgstr ""
+
+#: src/class-plugin.php:169
+msgid "Popular Customer Tags"
+msgstr ""
+
+#: src/class-plugin.php:102
+msgctxt "post type general name"
+msgid "Customers"
+msgstr ""
+
+#: src/class-plugin.php:103
+msgctxt "post type singular name"
+msgid "Customer"
+msgstr ""
+
+#: src/class-plugin.php:140
+msgid "Search Customer Categories"
+msgstr ""
+
+#: src/class-plugin.php:168
+msgid "Search Customer Tags"
+msgstr ""
+
+#: src/class-plugin.php:112
+msgid "Search Customers"
+msgstr ""
+
+#: src/class-plugin.php:147
+msgid "Separate customer categories with commas"
+msgstr ""
+
+#: src/class-plugin.php:175
+msgid "Separate customer tags with commas"
+msgstr ""
+
+#: src/class-form-fields.php:401
+msgid "Something went worng, please try again."
+msgstr ""
+
+#: src/class-notice.php:77 src/class-service.php:100
+msgid "Sorry, you are not allowed to access."
+msgstr ""
+
+#: templates/the_form.php:105
+msgid "Submit"
+msgstr ""
+
+#: src/class-plugin.php:144
+msgid "Update Customer Category"
+msgstr ""
+
+#: src/class-plugin.php:172
+msgid "Update Customer Tag"
+msgstr ""
+
+#: src/class-plugin.php:110
+msgid "View Customer"
+msgstr ""
+
+#: src/class-service.php:80 src/class-service.php:136
+msgid "We received your submission. Thank you!"
+msgstr ""
+
+#. Author of the plugin
+msgid "xFrontend"
+msgstr ""

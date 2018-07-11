@@ -1,0 +1,74 @@
+
+.xf-customer-form {
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	padding: 30px;
+	background-color: #fafafa;
+}
+
+.xf-customer-form .alert {
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	padding: 10px;
+	margin-bottom: 25px;
+}
+
+.xf-customer-form .alert > strong {
+	padding-left: 10px;
+}
+
+.xf-customer-form .alert > ul {
+	padding-left: 15px;
+	margin: 0;
+}
+
+.xf-customer-form .alert-success {
+	background-color: green;
+	color: white;
+}
+
+.xf-customer-form .alert-success > ul {
+	list-style: none;
+}
+
+.xf-customer-form .alert-error,
+.xf-customer-form .alert-danger {
+	background-color: #cd0a0a;
+	color: white;
+}
+
+.xf-customer-form .ajax-response {
+	margin-top: 25px;
+}
+
+.xf-form-group:not(:last-child) {
+	margin-bottom: 10px;
+}
+
+.xf-form-group .xf-control-label {
+	display: block;
+	padding-bottom: 5px;
+	width: 100%;
+}
+
+.xf-form-group input[type="text"],
+.xf-form-group input[type="email"],
+.xf-form-group input[type="url"],
+.xf-form-group input[type="password"],
+.xf-form-group input[type="search"],
+.xf-form-group textarea {
+	-webkit-border-radius: 0;
+	border-radius: 0;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	background-color: rgba(66, 66, 66, 0.1);
+	border-color: rgba(66, 66, 66, 0.1);
+	border-style: solid;
+	border-width: 1px;
+	color: #424242;
+	font-size: .85em;
+	line-height: 1;
+	margin-bottom: 8px;
+	padding: 15px;
+	width: 100%;
+}
