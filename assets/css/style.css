@@ -10,7 +10,7 @@
 	-webkit-border-radius: 10px;
 	border-radius: 10px;
 	padding: 10px;
-	margin-bottom: 25px;
+	margin-top: 25px;
 }
 
 .xf-customer-form .alert > strong {
@@ -36,10 +36,6 @@
 .xf-customer-form .alert-danger {
 	background-color: #cd0a0a;
 	color: white;
-}
-
-.xf-customer-form .ajax-response {
-	margin-top: 25px;
 }
 
 .xf-form-group:not(:last-child) {
