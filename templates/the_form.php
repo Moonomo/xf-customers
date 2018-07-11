@@ -102,7 +102,7 @@ $message     = $fields->get_field( 'message' );
 
 		<div class="xf-form-group">
 			<button type="submit"
-					class="xf-btn xf-btn-primary xf__button"><?php esc_html_e( 'Submit', 'xf-customers' ); ?></button>
+					class="xf-btn xf-btn-primary"><?php esc_html_e( 'Submit', 'xf-customers' ); ?></button>
 		</div>
 
 		<div class="ajax-response"></div>
